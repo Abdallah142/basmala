@@ -102,8 +102,8 @@ This repository contains two IoT and embedded systems projects:
 
 ---
 
-## 🧑‍💻 Author
-👤 Developed by **[Your Name]**  
+## 🧑‍💻 hassan && basmala
+👤 Developed by **[abdallah]**  
 📧 Contact: **your.email@example.com**  
 
 ---
